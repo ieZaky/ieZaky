@@ -1,13 +1,12 @@
-<!-- Animated header (can be replaced with a GIF/banner if you want!) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=2DE7E7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Islam+Zaky+(@ieZaky)%21;Senior+Software+Automation+Test+Engineer;Automation+%7C+QA+%7C+Gamer+%7C+Full-stack+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=2DE7E7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Islam+Zaky+(@ieZaky)%21;Senior+Automation+Test+Engineer;Automation+%7C+QA+%7C+Gamer+%7C+Full-stack+Enthusiast" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-I'm **Islam Zaky**, a Senior Software Automation Test Engineer passionate about building reliable, scalable solutions and ensuring software quality. I blend deep expertise in automated testing, backend APIs, and modern frontends with a love for gaming and continuous learning.
+I'm **Islam Zaky**, a Senior Automation Test Engineer passionate about building reliable, scalable solutions and ensuring software quality. I blend deep expertise in automated testing, backend APIs, and modern frontends with a love for gaming and continuous learning.
 
 ---
 
@@ -48,7 +47,7 @@ I'm **Islam Zaky**, a Senior Software Automation Test Engineer passionate about 
 
 ## 📈 Professional Highlights
 
-- **Years of Experience:** Extensive background in automation, QA, and full-stack development.
+- **Years of Experience:** 5 years in automation, QA, and full-stack development.
 - **Industry Impact:** Successfully led and contributed to projects in web, mobile, and API testing.
 - **Tools Built:** Created custom Python tools for element extraction and analytics.
 
@@ -75,7 +74,6 @@ Drop me a message or connect on LinkedIn!
 
 ---
 
-<!-- Animated stats - you can enable these if you want! -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ieZaky&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ieZaky&theme=radical" />
