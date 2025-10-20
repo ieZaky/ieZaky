@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3500&pause=1000&color=00E6A8&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Islam+Zaky+(@ieZaky)!;Senior+Quality+Assurance+Engineer+%7C+Automation+%26+API+Testing+Expert;Building+Reliable+%26+Scalable+QA+Frameworks;Driving+Quality%2C+Efficiency+%26+Continuous+Improvement" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00E6A8&center=true&vCenter=true&width=950&lines=Hi+%F0%9F%91%8B%2C+I'm+Islam+Zaky+(@ieZaky)!;Senior+Quality+Assurance+Engineer;Automation+%26+API+Testing+Expert;Delivering+Reliable%2C+Scalable+%26+High-Quality+Software" />
 </p>
+
 
 ---
 
