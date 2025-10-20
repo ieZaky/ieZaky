@@ -16,7 +16,7 @@ My passion lies in continuous improvement, engineering excellence, and driving s
 
 ## 💼 Professional Experience
 
- 🏢 **Senior Quality Assurance Engineer – National Housing Company (NHC)**
+###  🏢 **Senior Quality Assurance Engineer – National Housing Company (NHC)**
 📅 *July 2024 – Present | Riyadh, Saudi Arabia*  
 - Leading QA initiatives for large-scale digital platforms under NHC.  
 - Designing and maintaining robust **API and web automation frameworks** using **Java**, **SHAFT Framework**, and **REST Assured**.  
