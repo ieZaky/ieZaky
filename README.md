@@ -4,7 +4,7 @@
 
 ---
 
- 🌟 About Me
+## 🌟 About Me
 
 I'm **Islam Zaky**, a **Senior Automation Test Engineer** passionate about building **reliable**, **scalable**, and **high-quality** software solutions.  
 With over **5 years of hands-on experience** across **web** and **API testing**, I specialize in designing automation frameworks that improve test efficiency, ensure product stability, and accelerate delivery pipelines.
@@ -14,7 +14,7 @@ My passion lies in continuous improvement, engineering excellence, and driving s
 
 ---
 
- 💼 Professional Experience
+## 💼 Professional Experience
 
  🏢 **Senior Quality Assurance Engineer – National Housing Company (NHC)**
 📅 *July 2024 – Present | Riyadh, Saudi Arabia*  
@@ -25,7 +25,7 @@ My passion lies in continuous improvement, engineering excellence, and driving s
 
 ---
 
-# 🧩 **Senior Software Automation Test Engineer – _VOIS (Vodafone Intelligent Solutions)**
+### 🧩 **Senior Software Automation Test Engineer – _VOIS (Vodafone Intelligent Solutions)**
 📅 *2022 – 2024 | Cairo, Egypt*  
 - Developed advanced automation suites for multiple enterprise applications using **Selenium**, **TestNG**, and **REST Assured**.  
 - Designed and executed complex **regression** and **integration** test plans.  
@@ -34,7 +34,7 @@ My passion lies in continuous improvement, engineering excellence, and driving s
 
 ---
 
-# ⚙️ **Software Automation Test Engineer – Nacita Mobility Solutions**
+### ⚙️ **Software Automation Test Engineer – Nacita Mobility Solutions**
 📅 *2020 – 2022 | Cairo, Egypt*  
 - Created end-to-end automation frameworks for web platforms using **Java**, **Selenium**, and **Postman**.  
 - Conducted **manual testing**, **API validation**, and **bug triaging** across distributed environments.  
@@ -42,27 +42,27 @@ My passion lies in continuous improvement, engineering excellence, and driving s
 
 ---
 
- 🧑‍💻 My QA Tech Stack
+## 🧑‍💻 My QA Tech Stack
 
-# 🧠 Programming Languages
+### 🧠 Programming Languages
 - **Java** – TestNG, REST Assured, Selenium, SHAFT  
 - **Python** – Custom QA tools & analytics  
 - **JavaScript** – Automation utilities & web tools  
 - **HTML, CSS, YAML, JSON** – Configs & UI structures  
 
-# 🧩 Automation & Testing
+### 🧩 Automation & Testing
 - **Selenium** | **SHAFT Framework** | **REST Assured**  
 - **Postman** | **TestNG / JUnit** | **JMeter**
 
-# ⚙️ DevOps / CI-CD & Tools
+### ⚙️ DevOps / CI-CD & Tools
 - **Git / GitHub** | **Jenkins** | **Render / Netlify / Supabase**  
 - **Docker** (learning in progress)
 
-# 🗄️ Backend & Databases
+### 🗄️ Backend & Databases
 - **Node.js + Express** | **MongoDB (Mongoose)**  
 - **SQL Basics**
 
-# 🧪 QA Expertise
+### 🧪 QA Expertise
 - Automated & Manual Test Design  
 - Defect Lifecycle & Reporting  
 - Test Data Management & Traceability  
@@ -71,7 +71,7 @@ My passion lies in continuous improvement, engineering excellence, and driving s
 
 ---
 
- 📈 Key Achievements
+## 📈 Key Achievements
 
 - 🧩 **Automation Impact:** Delivered scalable **web and API automation** frameworks that improved test coverage and reduced release time.  
 - 🚀 **Efficiency Gains:** Reduced regression cycle duration by automating **80%+** of repetitive tests.  
@@ -80,7 +80,7 @@ My passion lies in continuous improvement, engineering excellence, and driving s
 
 ---
 
- 🎮 Fun Facts
+## 🎮 Fun Facts
 
 - 🎮 **Gamer at Heart:** A long-time MMORPG player — especially **Silkroad Online**.  
 - 🧠 **QA Mindset Everywhere:** I spot bugs even in games and apps I use daily.  
@@ -88,14 +88,14 @@ My passion lies in continuous improvement, engineering excellence, and driving s
 
 ---
 
- 📬 Connect With Me
+## 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iezaky/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:McEslam58@gmail.com)
 
 ---
 
- 🚀 Let's Collaborate!
+## 🚀 Let's Collaborate!
 
 Open to:
 - QA consulting and automation projects  
