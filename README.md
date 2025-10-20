@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3500&pause=1000&color=00E6A8&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Islam+Zaky+(@ieZaky)!;Senior+QA+Automation+Engineer+%7C+API+%26+UI+Testing+Expert;Builder+of+Reliable+%26+Scalable+Software+Solutions;Gamer+%7C+Full-Stack+Enthusiast+%7C+Continuous+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3500&pause=1000&color=00E6A8&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Islam+Zaky+(@ieZaky)!;Senior+Quality+Assurance+Engineer+%7C+Automation+%26+API+Testing+Expert;Building+Reliable+%26+Scalable+QA+Frameworks;Driving+Quality%2C+Efficiency+%26+Continuous+Improvement" />
 </p>
 
 ---
@@ -7,11 +7,11 @@
 ## 🌟 About Me
 
 I'm **Islam Zaky**, a **Senior Automation Test Engineer** passionate about building **reliable**, **scalable**, and **high-quality** software solutions.  
-With over **5 years of experience** across **web**, **mobile**, and **API testing**, I specialize in transforming QA processes into efficient, automated systems that accelerate delivery and ensure flawless user experiences.
+With over **5 years of hands-on experience** in **web** and **API testing**, I specialize in creating robust automation frameworks that optimize testing efficiency, ensure stability, and deliver seamless user experiences.
 
-I thrive at the intersection of **engineering and quality**, crafting automation frameworks, refining CI/CD workflows, and collaborating closely with development teams to elevate every release.
+I focus on blending **technical depth** with **QA strategy** — developing tools, refining CI/CD workflows, and collaborating across teams to elevate product quality from development to deployment.  
 
-I’m a lifelong learner driven by curiosity — always exploring new testing methodologies, tools, and technologies to make software smarter, faster, and more resilient.
+Continuous learning, experimentation, and precision drive my work — every test, every script, every release.
 
 ---
 
@@ -19,46 +19,45 @@ I’m a lifelong learner driven by curiosity — always exploring new testing me
 
 ### 🧠 Programming Languages
 - **Java** – TestNG, REST Assured, Selenium, SHAFT  
-- **Python** – Custom QA tools, analytics scripts  
-- **JavaScript** – Web utilities, automation helpers  
-- **HTML, CSS, YAML, JSON** – Configs, UI, and test data structures  
+- **Python** – Custom QA tools & analytics  
+- **JavaScript** – Automation utilities & web tools  
+- **HTML, CSS, YAML, JSON** – Configs & UI structures  
 
 ### 🧩 Automation & Testing
-- **Selenium** | **SHAFT Framework** | **Appium**  
-- **REST Assured** | **Postman**  
-- **TestNG / JUnit** | **JMeter**  
+- **Selenium** | **SHAFT Framework** | **REST Assured**  
+- **Postman** | **TestNG / JUnit** | **JMeter**
 
 ### ⚙️ DevOps / CI-CD & Tools
-- **Git / GitHub** | **Render / Netlify / Supabase**  
-- **Jenkins** (CI/CD) | **Docker** (learning in progress)  
+- **Git / GitHub** | **Jenkins** | **Render / Netlify / Supabase**  
+- **Docker** (learning in progress)
 
 ### 🗄️ Backend & Databases
 - **Node.js + Express** | **MongoDB (Mongoose)**  
-- **SQL Basics**  
+- **SQL Basics**
 
 ### 🧪 QA Expertise
-- Automated + Manual Test Case Design  
+- Automated & Manual Test Design  
 - Defect Lifecycle & Reporting  
 - Test Data Management & Traceability  
 - Agile/Scrum QA Processes  
-- Detailed Documentation (UATs, Reports, Test Plans)  
+- Comprehensive Documentation (Reports, UATs, Test Plans)  
 
 ---
 
 ## 📈 Professional Highlights
 
-- 🧩 **Automation Impact:** Delivered end-to-end frameworks for web, mobile, and API testing.  
-- 🚀 **Efficiency Gains:** Reduced regression cycles by automating 80%+ of test coverage.  
-- 🤝 **Cross-Team Collaboration:** Bridged QA, Dev, and DevOps to ensure seamless delivery.  
-- 💡 **Continuous Improvement:** Built internal QA tools that enhanced visibility and test accuracy.  
+- 🧩 **Automation Impact:** Delivered full-stack automation frameworks for **web and API testing**, ensuring consistency and scalability across projects.  
+- 🚀 **Efficiency Gains:** Reduced regression cycles by automating over **80%** of core test coverage.  
+- 🤝 **Cross-Team Collaboration:** Partnered closely with developers and DevOps to streamline testing within CI/CD pipelines.  
+- 💡 **Continuous Improvement:** Designed internal QA tools and processes to improve transparency, traceability, and speed.  
 
 ---
 
 ## 🎮 Fun Facts
 
-- 🎮 **Gamer at Heart:** I unwind with competitive FPS and MMORPG titles — especially **Silkroad Online**.  
-- 🧠 **QA Mindset Everywhere:** I even find bugs in games before updates drop.  
-- ☕ **Fuel:** Coffee + late-night debugging = productive magic.  
+- 🎮 **Gamer at Heart:** I love exploring FPS and MMORPGs — especially **Silkroad Online**.  
+- 🧠 **QA Mindset Everywhere:** I catch bugs in games before the updates even roll out.  
+- ☕ **Late-Night Debugger:** Best ideas happen after midnight — powered by coffee.  
 
 ---
 
@@ -71,12 +70,12 @@ I’m a lifelong learner driven by curiosity — always exploring new testing me
 
 ## 🚀 Let's Collaborate!
 
-I’m open to:
+Open to:
 - QA consulting and automation projects  
 - Open-source collaboration  
-- Sharing insights on software testing and gaming  
+- Sharing ideas on testing frameworks and quality engineering  
 
-Let’s connect, collaborate, and build something meaningful together!
+Let’s connect, collaborate, and build software that truly delivers quality.
 
 ---
 
