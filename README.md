@@ -1,21 +1,25 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=2DE7E7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Islam+Zaky+(@ieZaky)%21;Senior+Automation+Test+Engineer;Automation+%7C+QA+%7C+Gamer+%7C+Full-stack+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=2DE7E7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Islam+Zaky+(@ieZaky)%21;Quality+Assurance+%7C+Test+Automation+%7C+Gamer+%7C+Full-stack+Enthusiast" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-I'm **Islam Zaky**, a Senior Automation Test Engineer passionate about building reliable, scalable solutions and ensuring software quality. I blend deep expertise in automated testing, backend APIs, and modern frontends with a love for gaming and continuous learning.
+I'm **Islam Zaky**, an experienced Quality Assurance and Software Test Automation Engineer with 5 years of proven expertise in delivering robust, scalable, and reliable solutions across web, mobile, and API platforms.
+
+My professional journey is driven by a commitment to elevating product quality through advanced automation, meticulous manual testing, and strong collaboration with development teams. I specialize in designing and executing comprehensive test strategies, optimizing CI/CD workflows, and building custom QA tools to accelerate release cycles while maintaining the highest standards.
+
+I am passionate about continuous improvement, process optimization, and leveraging emerging technologies to drive efficiency and accuracy in software testing.
 
 ---
 
-## 🧑‍💻 My Tech Stack
+## 🧑‍💻 My QA Tech Stack
 
 ### 🧠 Programming Languages
 - **Java** (TestNG, REST Assured, Selenium, SHAFT)
-- **Python** (Element Extractor Tool, analytics)
-- **JavaScript** (React, Node.js/Express)
+- **Python** (QA tools, analytics)
+- **JavaScript** (automation scripts, web tools)
 - **HTML, CSS, YAML, JSON** (web automation, UI tools, configs)
 
 ### 🧩 Automation & Testing
@@ -31,32 +35,27 @@ I'm **Islam Zaky**, a Senior Automation Test Engineer passionate about building 
 - **Node.js + Express** | **MongoDB (Mongoose)**
 - **SQL Basics**
 
-### 💻 Frontend & UI
-- **React.js + Tailwind CSS**
-- **React Native / Expo**
-- **Figma & UI Design**
-
 ### 🧪 QA Expertise
-- Manual & automated test case design
-- Defect lifecycle & reporting
-- Test data management
-- Agile/Scrum processes
-- Test documentation, reports, UATs
+- Automated & manual test case design
+- Defect lifecycle management & reporting
+- Test data management & traceability
+- Agile/Scrum QA processes
+- Detailed documentation (reports, UATs)
 
 ---
 
 ## 📈 Professional Highlights
 
-- **Years of Experience:** 5 years in automation, QA, and full-stack development.
-- **Industry Impact:** Successfully led and contributed to projects in web, mobile, and API testing.
-- **Tools Built:** Created custom Python tools for element extraction and analytics.
+- **Years of Experience:** 5 years specializing in quality assurance and test automation.
+- **Project Impact:** Delivered successful automation solutions for web, mobile, and API testing.
+- **Process Improvement:** Streamlined release cycles and QA processes with custom tools.
 
 ---
 
 ## 🎮 Fun Facts
 
-- **Gamer at Heart:** I love FPS and MMORPGs—especially classics like Silkroad!
-- **Always Exploring:** Whether it's a new framework, a challenging bug, or a gaming quest, I’m always up for a challenge.
+- **Gamer at Heart:** I enjoy FPS and MMORPGs—especially Silkroad!
+- **QA Mindset Everywhere:** Even in gaming, I love analyzing mechanics and optimizing performance.
 
 ---
 
@@ -69,8 +68,8 @@ I'm **Islam Zaky**, a Senior Automation Test Engineer passionate about building 
 
 ## 🚀 Let's Collaborate!
 
-I'm open to freelance projects, collaboration on open source, or just geeking out about automation and games.  
-Drop me a message or connect on LinkedIn!
+Open to QA consulting, test automation projects, open source, or connecting with fellow professionals and gamers.  
+Reach out or connect on LinkedIn!
 
 ---
 
